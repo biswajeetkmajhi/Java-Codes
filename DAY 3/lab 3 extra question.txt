@@ -1,0 +1,2 @@
+1.wap to take a list of integer no. as input then find minimum no. from the list and maximum no. from the list and check it is prime or not
+2.take a list of no. and find seventh largest no. from the lsit and check whether it is palindrome or not. 

@@ -1,0 +1,8 @@
+cp f1 Directoryname
+cp f1.txt f2.txt f3.txt Dixtory name
+cp f{1..5}.txt directory name 
+cat >> f1
+
+chmod 457 f1
+
+chmod u-rx g-w o-x New_directory

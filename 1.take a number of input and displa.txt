@@ -1,0 +1,2 @@
+1.take a number of input and display frequency of all digits present in number using string
+2.

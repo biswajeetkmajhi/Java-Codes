@@ -1,0 +1,27 @@
+class prc
+{
+	public static void main(String args[])
+  	{
+	int a[]=new int[args.length];
+	for(int i=0;i<args.length;i++)
+		a[i]=Integer.parseInt(args[i]);
+		
+	
+	for(int i=0;i<args.length-1;i++)
+	{
+		for(int j=i+1;j<args.length;j++)
+		{
+			if(a[i]>a[j])
+			{
+			int temp=a[i];
+			a[i]=a[j];
+			a[j]=temp;
+		
+			}
+		}
+			
+	}
+	for(int i=0;i<args.length;i++)
+		System.out.println(a[i]+" ");
+   	}                        
+}

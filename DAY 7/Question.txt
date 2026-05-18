@@ -1,0 +1,8 @@
+Write in lab file:
+LAB 7
+1.wap to input a sentence and print each word of the string along with its length in tabular form
+2.wap to input a sentence and arrange its word of the string in alphabetical order (ascending order)
+3.wap to input a sentence and arrange words of the string in order of their lengths from shortest to longest
+4.wap to input a string (any combination) and print the frequency of each character
+5.wap to input a string and print each word of the string in the reverse order
+6.wap to input a string and check whether the string is palindrome or not

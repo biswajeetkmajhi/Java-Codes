@@ -1,0 +1,4 @@
+1.method overriding(BUZZ no or not ,no divisible by 7 or end by 7)
+2.Dynamic method dispatch(check a no is neven harshal no. if a number is divisible by sum of all of its digits)
+3.method overloading(checking of perfect no ,no equal sum of its digits)
+4.abstract class(nth amrstrong no. any order of Armstrong no.)
